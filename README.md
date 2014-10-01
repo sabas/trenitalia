@@ -20,3 +20,8 @@ http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/regione/S12878 
 Dettagli per la stazione di Oristano
 http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/dettaglioStazione/S12878/20
 (codice_stazione/regione)
+
+Authors
+-------
+@sabas
+@marcobra
