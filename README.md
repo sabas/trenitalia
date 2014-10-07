@@ -22,3 +22,8 @@ http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/dettaglioStazio
 (codice_stazione/regione)
 
 Vedi stazioni_coord.tsv per un dump contenente le coordinate, e stazioni_coord.geojson per la conversione (effettuata con geojson.io).
+
+Authors
+-------
+@sabas
+@marcobra
