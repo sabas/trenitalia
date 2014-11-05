@@ -32,11 +32,29 @@ dove:
 - codTreno è il codice del treno che parte dalla stazione richiesta
 (se si vuole sapere lo status del treno 666 a Brignole, richiedere La Spezia Centrale (S06000) più il treno (666)
 
+Gli orari sono in UNIX Timestamp con millisecondi (!!!), quindi basta togliere i tre zeri finali e convertirli nell'orario "normale".
+
 Meteo
 -------
 http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/datimeteo/0
 
 0 richiede per tutta Italia, altrimenti usare l'id della Regione (funziona solo per certe stazioni)
+
+Situazione treno
+---------
+
+http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/andamentoTreno/[codPartenza]/[codTreno]
+
+Simile a tratteCanvas.
+
+Trova stazione di partenza da codice treno
+-----------
+La chiamata di autocompletamento è
+http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/cercaNumeroTrenoTrenoAutocomplete/[codTreno]
+
+dove codTreno è il codice del treno. Ad esempio il treno 666 restituisce una stringa del tipo
+666 - LA SPEZIA CENTRALE|666-S06000
+dove LA SPEZIA CENTRALE e S06000 si riferiscono alla stazione di partenza
 
 
 Authors
