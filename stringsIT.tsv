@@ -1,0 +1,199 @@
+key	value
+andamentoTreno.infTempoReale	Informazioni tempo reale
+trafficoLabel	Tutto il Traffico
+andamentoTreno.compAnticipo	anticipo {0} min.
+andamentoTreno.partenzaEffettiva	Partenza effettiva
+servizio_non_disponibile	"Servizio momentaneamente non disponibile, per info andare su <a target=""_blank"" href=""http://www.trenitalia.com"">www.trenitalia.com</a>"
+andamentoTreno.andamentoTempoReale	Andamento in Tempo Reale
+programmaOrario.21_24	dopo le {{time dataDa}}
+programmaOrario.fasciaOrariaLabel	Fascia Oraria
+del	del
+andamentoTreno.inOrario	in orario
+legenda.tragittoCancellato	Tragitto cancellato
+legenda.trenoNazConRit30	Treno nazionale con ritardo > 30'
+andamentoTreno.nonPartito	non partito
+cercaTreno.da.label	Da
+fermate.partenza	Partenza {{#if arrivato}}Effettiva{{else}}Prevista{{/if}}
+precedente	Precedente
+mappaCitta.stazioneDi	Stazione di
+cercaTreno.numeroTreno.label	Numero treno
+prec	(prec. {0})
+meteo.oggi	Oggi
+andamentoTreno.orientamento	Orientamento
+noteLegali.noteLegaliLabel	Note Legali
+cercaTrenoDatiViaggio.partenza	Partenza 
+programmaOrario.localitaPartenza	Localit… di Partenza 
+andamentoTreno.corrispondenze	Corrispondenze
+cercaTrenoDatiViaggio.ritardo	Ritardo
+programmaOrario.dalle_alle	dalle {{time dataDa}} alle {{time dataA}}
+tab_alert3	Puoi aprire fino a tre tab
+tab_alert4	Puoi aprire fino a quattro tab
+legenda.trenoRegConRit15	Treno regionale con ritardo > 15'
+programmaOrario.titoloLabel	Programma Orario
+legenda.tragittoPercorso	Tragitto gi… percorso
+cercaTreno.titolo.label	Cerca Treno
+trafNazLabel	Traffico Nazionale
+nessun_servizio_label	Non disponibile
+serviziStazione	Servizi Stazione
+ultimeNewsLabel	Ultime news
+non_partito	non partito
+a	a
+cercaTrenoTratta.listaTreniInCircolazione	Lista treni in circolazione il
+andamentoTrenoTempoReale_titolo	{{numero}} delle
+andamentoTreno.ristorante	Ristorante
+cercaTrenoDatiViaggio.risultatiRicerca	Risultati Ricerca   
+andamentoTreno.ritardo	Ritardo
+legenda.trenoRiprogrammato	Treno riprogrammato
+legenda.trenoNazConRit60	Treno nazionale con ritardo > 60'
+regionaleLabel	Regionale
+link_siti	I siti del Gruppo
+classe_in_coda	1 classe in coda
+tabella_soluzioniViaggio_titoletto_ora	del {{date dataDa}}
+cercaTrenoDatiViaggio.tabella_datiViaggio_titoletto	Da {0} a {1}
+biciclette	Biciclette
+fermate.arrivo	Arrivo {{#if arrivato}}Effettivo{{else}}Previsto{{/if}}
+link_chiudi	chiudi
+da	da
+legenda.trenoRegConRit30	Treno regionale con ritardo > 30'
+caratteri_minimi	Inserire almeno {0} caratteri
+legenda.fermataStraordinaria	Fermata straordinaria
+classe_in_testa	1 classe in testa
+cercaTrenoDatiViaggio.arrivo	Arrivo
+dettaglioSoluzioniViaggio.partenza	Partenza
+campo_obbligatorio	Campo obbligatorio
+fermate.arrivoEffettivo	Arrivo Effettivo
+arrivato	Arrivato
+programmaOrario.giornoLabel	Giorno
+cercaTrenoTratta.da	Da
+fermate.arrivoProgrammato	Arrivo Programmato
+statistica_ultimoagg	Ultimo aggiornamento: 
+dettaglioSoluzioniViaggio.arrivo	Arrivo
+mappaLabel	Visualizza su Mappa
+piantaStazione	Pianta Stazione
+andamentoTreno.primSecClasse	Prima e Seconda Classe
+programmaOrario.0_6	prima delle {{time dataA}}
+andamentoTreno.alleOre	Alle ore
+noteLegaliLabel	Note Legali
+andamentoTrenoTempoReale_titolo_da_a	da {{origine}} a {{destinazione}}
+andamentoTreno.conAnticipo	con un anticipo di {0} min.
+meteo.pomeriggio	Pomeriggio
+meteo.domani	Domani
+cercaTrenoTratta.ritardo	Ritardo
+programmaOrario.12_15	dalle 12:00 alle 15:00
+programmaOrario.localitaArrivo	Localit… di Arrivo 
+andamentoTreno.trenoViaggia	il treno viaggia
+andamentoTreno.binReale	Bin.reale
+soluzioniViaggio.treni	Treni
+cercaTreno.a.label	A
+soluzioniViaggio.partenza	Partenza
+cercaTrenoCerca.arrivi	Arrivi
+andamentoTreno.accessibile	Accessibile
+andamentoTreno.compRitardo	ritardo {0} min.
+andamentoTreno.ultimoRiv	Ultimo rilevamento a
+nessun_servizio_descrizione	Nessun servizio disponibile per questo treno
+contattiLabel	Contatti
+cercaTrenoDatiViaggio.ore	Ore 
+trafRegLabel	Traffico Regionale
+fermate.partenzaPrevista	Partenza Prevista
+andamentoTreno.conRitardo	con un ritardo di {0} min.
+meteoLabel	Meteo
+news.news	Elenco News
+cercaTrenoCerca.DelleOre	Delle ore
+legenda.fermataSoppressa	Fermata soppressa
+fermate.partenzaEffettiva	Partenza Effettiva
+programmaOrario.18_21	dalle 18:00 alle 21:00 
+treno_cancellato	Il treno e' cancellato
+andamentoTreno.arrivoPrevisto	Arrivo previsto
+sceltaRegione.sceltaRegione	Scelta della Regione
+andamentoTreno.binPrev	Bin.prev.
+frecciaBiancaLabel	Freccia Bianca
+cercaTreno.numeroTreno.error	Nessuna corrispondenza trovata
+programmaOrario.6_9	dalle 06:00 alle 09:00 
+andamentoTreno.diviene	{{numero}} diventa {{{nuovoNumeroTreno}}} a {{{stazione}}}
+dettaglioSoluzioniViaggio.ora	Ora
+cercaTrenoDatiViaggio.treno	Treno 
+dettaglioSoluzioniViaggio.treno	Treno
+cercaTrenoCerca.origine	Da
+sceltaRegioneLabel	Scelta della Regione
+cercaTrenoCerca.compRitardo	Ritardo
+link_social	FS social network
+nessuna_soluzione_viaggio	Non Š stata trovata nessuna soluzione di viaggio in base alla ricerca effettuata
+classe_in_coda_fr	Executive in coda
+legenda.tragittoVariatoPercorso	Tragitto variato gi… percorso
+programmaOrarioLabel	Imposta Viaggio
+link_compra	Acquista biglietto
+mappaCitta.vaiA	Vai a Partenze/Arrivi
+comeFunziona.comeFunzionaLabel	Come Funziona
+meteo.sera	Sera
+conatatti.contattiLabel	Contatti
+cercaTrenoCerca.nomeStazione	Stazione di {0}
+mappaCitta	Mappa
+fermate.arrivoPrevisto	Arrivo Previsto
+annulla.label	Annulla
+andamentoTreno.serviziProgrammati	Servizi Programmati
+legenda.trenoNum	Il treno ha pi— numerazioni
+cercaTrenoLabel	Cerca Treno
+cercaTrenoCerca.partenze	Partenze
+link_lavora	Lavora con noi
+andamentoTreno.fermateInt	Fermate Intermedie
+classe_in_testa_fr	Executive in testa
+andamentoTreno.arrivoProgrammato	Arrivo programmato
+soluzioniViaggio.cambi	Cambi
+cercaTrenoTratta.a	A
+frecciaArgentoLabel	Freccia Argento
+dati_non_caricabili	Il server in questo momento risulta sovraccarico: i dati non possono essere caricati
+cercaTrenoCerca.destinazione	Per
+indietro.label	Indietro
+cercaTrenoTratta.partenze	Partenze
+cercaTrenoCerca.binarioEffettivoPADescrizione	Bin. reale
+frecciaRossaLabel	Freccia Rossa
+legenda.trenoConDeviazioni	Treno con deviazioni
+programmaOrario.9_12	dalle 09:00 alle 12:00
+cercaTrenoCerca.compNumeroTreno	Treno
+soluzioniViaggio.soluzioniViaggioLabel	Soluzioni di viaggio
+andamentoTreno.provvedimento	Provvedimenti
+nessuna_corrispondenza	Nessuna corrispondenza trovata
+fermate.partenzaProgrammata	Partenza Programmata 
+auto	Auto
+soluzioniViaggio.arrivo	Arrivo
+cerca.label	Cerca
+statistica_giorno	Dalla mezzanotte di oggi sulla rete ferroviaria servita da Trenitalia hanno viaggiato {{treniGiorno}} treni.
+cercaTreno.datiViaggio.label	Dati di viaggio
+andamentoTreno.ore	Ore
+legenda.trenoConCancellazioni	Treno con cancellazioni
+andamentoTreno.treno	Treno
+soluzioniViaggio.durata	Durata
+cercaTrenoCerca.compOrientamento	Orientamento
+andamentoTreno.binarioPrev	Bin.previsto
+andamentoTreno.stazioneArrivo	Stazione di Arrivo
+legenda.trenoViaggiaConReg	Il treno viaggia con regolarit…
+programmaOrario.error	Nessuna corrispondenza trovata
+partito	Partito
+cercaTreno.stazione.label	Stazione
+cercaTrenoTratta.treno	Treno
+tabella_soluzioniViaggio_titoletto	Da {{origine}} a {{destinazione}}
+andamentoTreno.bevande	Bevane
+legenda.tragittoVariato	Tragitto variato
+legenda.trenoNazConRit15	Treno nazionale con ritardo > 15'
+cercaTrenoCerca.indietroPulsLabel	Indietro
+meteo.mattina	Mattina
+newsLabel	News
+cercaTrenoCerca.caricamento_in_corso	caricamento in corso...
+dettaglioSoluzioniViaggio.dettaglioSoluzioniViaggio	Dettaglio soluzioni di viaggio
+programmaOrario.15_18	dalle 15:00 alle 18:00 
+andamentoTreno.stazionePartenza	Stazione di Partenza
+andamentoTreno.partenzaProgramma	Partenza programmata
+mappaCitta.consultaIlSito	Consulta il sito Trenitalia
+legenda.tragittoNonPercorso	Tragitto non ancora percorso
+cercaTrenoCerca.binarioProgrammatoPADescrizione	Bin. previsto
+andamentoTreno.per	Per
+nessun_treno_circolazione	Nessun Treno in circolazione
+cercaTrenoTratta.arrivi	Arrivi
+programmaOrario.soluzioni.error	Non Š stata trovata nessuna soluzione di viaggio in base alla ricerca effettuata
+legenda.trenoRegConRit5	Treno regionale con ritardo > 5'
+statistica_attuale	Attualmente sono in viaggio {{treniCircolanti}} treni.
+programmaOrario.6	prima delle 06:00
+legenda.legenda	Legenda
+comeFunzionaLabel	Come Funziona
+programmaOrario.9	dopo le 21
+successivo	Successivo
