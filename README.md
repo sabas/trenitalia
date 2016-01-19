@@ -115,4 +115,4 @@ Authors
 
 Nota
 ----
-Il servizio é svolto a scopo di studio, le informazioni sono riservate nonostante l'azienda sia pubblica.
+Il servizio é svolto a scopo di studio, le informazioni non sono pubblicamente accessibili nonostante l'azienda sia pubblica.
