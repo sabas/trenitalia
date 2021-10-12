@@ -42,7 +42,7 @@ Vedi stringsIT.tsv per l'esempio italiano.
 Dettagli viaggio
 ----------------
 Elenco stazioni con stato per ognuna
-http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/tratteCanvas/[codPartenza]/[codTreno]
+http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/tratteCanvas/[codPartenza]/[codTreno]/[dataPartenza]
 dove:
 - codPartenza è il codice trenitalia della stazione di partenza del treno
 - codTreno è il codice del treno che parte dalla stazione richiesta
@@ -53,7 +53,7 @@ Gli orari sono in UNIX Timestamp con millisecondi (!!!), quindi basta togliere i
 Situazione treno
 ---------
 
-http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/andamentoTreno/[codPartenza]/[codTreno]
+http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/andamentoTreno/[codPartenza]/[codTreno]/[dataPartenza]
 
 Simile a tratteCanvas.
 
